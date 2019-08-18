@@ -8,7 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. styled-components
 
-   npm install --save styled-components
+```
+npm install --save styled-components
+```
 
 2. react-icons
 
