@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Todo List
+
+본 프로젝트는 React 와 Styled Component 학습을 통해 만들어진 간단한 Todo List 입니다.
+
+## 추가로 설치할 모듈
+
+1. styled-components
+
+   npm install --save styled-components
+
+2. react-icons
+
+   npm install react-icons --save
+
+3. polished
+
+   npm install --save polished
+
 ## Available Scripts
 
 In the project directory, you can run:
